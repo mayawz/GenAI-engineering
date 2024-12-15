@@ -1,3 +1,3 @@
-# GenAI_Engineering_learning
+# GenAI-engineering
 
 practice code along with the book
