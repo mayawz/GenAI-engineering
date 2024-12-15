@@ -1,2 +1,3 @@
-# build_llm_powered_app
+# GenAI_Engineering_learning
+
 practice code along with the book
